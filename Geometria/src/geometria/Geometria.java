@@ -6,12 +6,16 @@
 package geometria;
 
 /**
- *
+ *Clase donde se definen las propiedades y métodos que tendrán las figuras
+ * geometricas de nuestro sistema.
  * @author javier
+ * @version 1.0
+ * @since 14/12/2021
  */
 public class Geometria {
 
     /**
+     * Constructor de la clase que recibe todos los parametros.
      * @param args the command line arguments
      */
     public static void main(String[] args) 

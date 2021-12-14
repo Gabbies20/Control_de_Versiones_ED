@@ -6,8 +6,10 @@
 package geometria;
 
 /**
- *
+ * Clase donde se definen las propiedades del rectángulo.
  * @author javier
+ * @version 1.0
+ * @since 14/12/2021
  */
 public class Rectangulo implements FiguraGeometrica
 {
